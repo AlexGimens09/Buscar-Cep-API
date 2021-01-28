@@ -10,11 +10,13 @@
 
 *Assim que você clonar ele no seu GitHub descktop, basta clicar em Open in Visual Studio Code:*
 
-![Tela Principal](https://blog.cod3r.com.br/wp-content/uploads/2021/01/6.png)
+![Tela Principal](https://cdn.discordapp.com/attachments/798327484310880276/804464432456663070/CAptura1.jpg)
 
 ## Passo 2: 
 
-*Depois ele irá abrir a tela com os códigos, você pode clicar e vizualizar...
+*Depois ele irá abrir a tela com os códigos, você pode clicar e vizualizar...*
+
+![Tela de código](https://cdn.discordapp.com/attachments/798327484310880276/804466518884614174/3.JPG)
 
 *Para você conseguir de uma maneira mais fácil rodar o programa em um web server local, basta clicar em extensões:*
 
@@ -40,6 +42,8 @@
 
 *Quando ele carregar a página irá aparecer três windows alert, você segue os passos e depois pode digitar seu CEP, para confimar clique na tecla TAB e ele irá carregar o conteúdo...*
 
+![tela](https://cdn.discordapp.com/attachments/798327484310880276/804466287342125076/2.JPG)
+
 ## License
 
 This project is licensed under the MIT License 
@@ -48,6 +52,8 @@ Muito obrigado pela atenção!
 
 
 ![Homem Letra](https://raw.githubusercontent.com/professorjosedeassis/Linguagem-C/master/homem%20letra.gif)
+
+
 
 
 
