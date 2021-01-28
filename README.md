@@ -18,7 +18,7 @@ Depois ele irá abrir a tela com os códigos, você pode clicar e vizualizar...
 ![Tela do Live Server](https://4.bp.blogspot.com/-jRfvd87q8jc/XCuQ36ndVdI/AAAAAAAAAoo/8f-RlBnMItcSRTCn35sobmB2cA9Dd9nnQCLcBGAs/s1600/vscode-install-live-server.png)
 
 *Instale, e volte para a página principal do programa, agora você tem que iniciar o seu webserver...*
-*Basta você clicar Cntrl+Shift+p ele ira abrir a pelta de comandos*
+*Basta você clicar Cntrl+Shift+p ele irá abrir a paleta de comandos*
 *Você tem que digitar nele "Live Server" e clicar em primeiro no Stop, depois digite novamente e clique em Open..*
 *Fazendo isso ele vai te levar para uma página no seu navegador e lá você pode consultar seu CEP*
 
