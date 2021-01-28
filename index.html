@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta Cep</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+</head>
+<style>
+    body{
+        background-color: rgb(0, 0, 0);
+    }
+    small{
+        color: rgb(255, 0, 13);
+        font: normal 10pt Arial;
+    }
+    label{
+        color: rgb(255, 255, 255);
+        font: normal 15pt Arial;
+    }
+    h1{
+        color: rgb(255, 255, 255);
+        font: normal 50pt Arial;
+        height: 10vh;
+        position: relative;
+        top: 40px;
+        left: 300px;
+    }
+    p{
+        color: rgb(255, 255, 255);
+        font: normal 15pt Arial;
+        height: 10vh;
+        position: relative;
+        top: 15px;
+        left: 370px;
+    }
+    img{
+        height: 10vh;
+        top: 50%;
+        left: 310px;
+        transform: translate(950%, 250%);
+    }
+</style>
+<body>
+    <img src="map.png">
+    <div class="container">
+        <h1>Consulte seu CEP</h1>
+        <p>CÓDIGO DE ENDEREÇAMENTO POSTAL</p>
+        <form>
+            <div class="form-group">
+                <label for="cep">CEP</label>
+                <input type="text" class="form-control" maxlength="9" id="cep">
+                <small>00000-000</small>
+            </div>
+            <div class="form-group">
+                <label for="logradouro">Logradouro</label>
+                <input type="text" class="form-control" id="logradouro">
+                <small>Rua/Av</small>
+            </div>
+            <div class="form-group">
+                <label for="bairro">Bairro</label> 
+                <input type="text" class="form-control" id="bairro">
+                <small>Bairro</small>
+            </div>
+            <div class="form-group">
+                <label for="localidade">Localidade</label>
+                <input type="text" class="form-control" id="localidade">
+                <small>Cidade</small>
+            </div>
+            <div class="form-group">
+                <label for="uf">UF</label>
+                <input type="text" class="form-control" id="uf">
+                <small>Estado</small>
+            </div>
+        </form>
+    </div>
+    <script src="src/js/main.js"></script>
+    <script>
+          window.alert('Bem-vindo a consulta de CEP!')
+        window.prompt('Qual é o seu nome?')
+        window.confirm('Ir para a consulta, basta clicar no "Ok"')
+    </script>
+</body>
+</html>
