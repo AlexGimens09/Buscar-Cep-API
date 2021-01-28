@@ -28,4 +28,16 @@ Passo 4:*Instale, e volte para a página principal do programa, agora você tem 
 
 ![Go live](https://ritwickdey.github.io/vscode-live-server/images/Screenshot/vscode-live-server-statusbar-3.jpg)
 
+Passo 5: *Quando ele carregar a página irá aparecer três windows alert, você segue os passos e depois pode digitar seu CEP, para confimar clique na tecla TAB e ele irá carregar o conteúdo...*
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+Muito obrigado pela atenção!
+
+
+![Homem Letra](https://raw.githubusercontent.com/professorjosedeassis/Linguagem-C/master/homem%20letra.gif)
+
+
 
