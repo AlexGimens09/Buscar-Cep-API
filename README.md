@@ -1,2 +1,1 @@
-# Buscar-Cep-API
- Api para busca de cep
+# Código para busca de cep em HTML/JavaScript
